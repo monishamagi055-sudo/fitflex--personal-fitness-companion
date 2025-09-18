@@ -1,1 +1,1 @@
-# fitflex--personal-fitness-companion
+# FitFlex-Your-Personal-Fitness-Companion
